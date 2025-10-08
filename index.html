@@ -4,18 +4,32 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Louie Cagas | Full Stack Web Developer</title>
-    <meta name="description" content="Portfolio of Louie Cagas - Full Stack Web Developer specializing in PHP, Laravel, CodeIgniter, and modern web technologies. 2+ years of experience building robust web solutions." />
+
+    <meta
+      name="description"
+      content="Portfolio of Louie Cagas - Full Stack Web Developer specializing in PHP, Laravel, CodeIgniter, and modern web technologies. 2+ years of experience building robust web solutions."
+    />
     <meta name="author" content="Louie Cagas" />
 
+    <!-- Open Graph (Facebook, LinkedIn, etc.) -->
     <meta property="og:title" content="Louie Cagas | Full Stack Web Developer" />
-    <meta property="og:description" content="Portfolio of Louie Cagas - Full Stack Web Developer with 2+ years of experience in PHP, Laravel, and modern web development." />
+    <meta
+      property="og:description"
+      content="Portfolio of Louie Cagas - Full Stack Web Developer with 2+ years of experience in PHP, Laravel, and modern web development."
+    />
     <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://louie0621.github.io/Portfolio/" />
 
+    <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- ✅ Important for GitHub Pages -->
+    <base href="/Portfolio/" />
   </head>
 
   <body>
     <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
+    <!-- ✅ Use relative path for Vite build -->
+    <script type="module" src="./src/main.tsx"></script>
   </body>
 </html>
