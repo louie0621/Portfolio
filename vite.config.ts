@@ -9,5 +9,5 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: "/Portfolio/", // ✅ must match repo name
+  base: "Portfolio/", // ✅ must match repo name
 });
