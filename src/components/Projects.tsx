@@ -56,14 +56,14 @@ const projects = [
   {
     title: "Southeastern College – Educational Training System (ETS)",
     description: "The ETS platform supports student enrollment, academic programs, and school operations with a student-centric, semi-progressive curriculum",
-    tech: ["Codeigniter", "Email integration", "Mysql", "Textblast Integration"],
+    tech: ["Codeigniter", "Email integration", "Mysql", "SMS Textblast Integration"],
     image: seacIMG,
     link: "https://app.southeastern.com.ph/site/login",
   },
   {
     title: "Early Christian College of Arts and Technology Inc. – Educational Training System (ETS)",
     description: "The ETS platform supports student enrollment, academic programs, and school operations with a student-centric, semi-progressive curriculum",
-    tech: ["Codeigniter", "Email integration", "Mysql", "Textblast Integration"],
+    tech: ["Codeigniter", "Email integration", "Mysql", "SMS Textblast Integration"],
     image: eccatImg,
     link: "https://website.eccat.online/",
   },
