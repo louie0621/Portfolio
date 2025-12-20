@@ -7,33 +7,12 @@ const experiences = [
     company: "Red Circle Global",
     period: "Nov 2022 - Present",
     description: [
-      "Developed websites using the Laravel framework with seamless API integrations",
-      "Created dynamic web applications using CodeIgniter framework",
-      "Built and customized WordPress websites, including theme and plugin development",
-      "Implemented Git for version control and efficient collaboration",
-      "Deployed and managed web applications on various server environments",
-      "Maintained client servers with ongoing support and monitoring",
-    ],
-  },
-  {
-    title: "Laravel Developer (Part Time)",
-    company: "Codedibility",
-    period: "December 2024 - May 2025",
-    description: [
-      "Designed and developed an all-in-one ERP solution using the Laravel framework",
-      "Built and integrated core modules including Inventory, Sales, HR, and Resource Management",
-      "Developed RESTful APIs for seamless data exchange between system components",
-    ],
-  },
-  {
-    title: "Junior Laravel Developer (Part Time)",
-    company: "Alchemy Media Group",
-    period: "May 2023 - May 2024",
-    description: [
-      "Implemented Git for version control to manage codebase changes",
-      "Debugged websites to identify and resolve issues",
-      "Developed company websites using Laravel with API integrations",
-      "Collaborated with cross-functional teams to deliver customized solutions",
+      "Developed and deployed custom web solutions using Laravel, CodeIgniter, and WordPress to meet client business needs",
+      "Integrated third-party APIs and built RESTful services to ensure seamless system communication",
+      "Designed and implemented an all-in-one ERP system with core modules for Inventory, Sales, HR, and Resource Management",
+      "Managed application deployment, server maintenance, and monitoring to ensure performance, security, and uptime",
+      "Utilized Git for efficient collaboration, version control, and rapid issue resolution",
+      "Worked closely with clients and cross-functional teams to deliver scalable, reliable, and tailored solutions"
     ],
   },
   {
@@ -45,8 +24,9 @@ const experiences = [
       "Repaired and troubleshooted computer hardware and software",
       "Installed operating systems and applications on desktops and laptops",
       "Provide online support through Teamviewer or Anydesk application to company branches.",
-      "Monitor IT Inventory purchases and deployment to a specific user.",
-      "Maintain Point of Sale application."
+      "Monitoring Inventory purchases and deployment to a specific user.",
+      "Maintain Point of Sale application.",
+      "Maintained and monitored company servers, including configuration, updates, backups, and basic security management"
     ],
   },
   {
